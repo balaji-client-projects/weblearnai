@@ -28,21 +28,6 @@ const About = () => {
             theme: '#f0f9ff' // Light blue
         },
         {
-            name: 'Pranay Kumar Sikilambatla',
-            image: pranayPortrait,
-            role: 'Data Engineer / Ex. Microsoft',
-            description: "Hi, I'm Pranay,Senior Data Engineer with 9+ years of extensive experience in architecting robust data pipelines and enterprise-scale ETL workflows. Pranay has successfully delivered high-performance data solutions across Finance, Healthcare, and Analytics domains, emphasizing automation, system reliability, and operational efficiency to drive business value.",
-            expertise: "Skilled in advanced data infrastructure including:",
-            certs: [
-                'Python & SQL Expert',
-                'PySpark & Databricks',
-                'AWS & Azure Cloud',
-                'Hadoop, Kafka & Airflow'
-            ],
-            theme: '#fdf2f8', // Light pink
-            credentialImage: certBadges
-        },
-        {
             name: 'Geetha',
             image: geethaPortrait,
             role: 'Senior Data Engineer / Azure Expert',
