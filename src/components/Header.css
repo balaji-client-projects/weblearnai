@@ -62,7 +62,8 @@ body.has-top-banner .header.home-header {
 }
 
 .logo-image {
-    max-height: 48px;
+    height: 70px;
+    max-height: 72px;
     width: auto;
     object-fit: contain;
     transition: all var(--transition-base);
@@ -307,7 +308,7 @@ body.has-top-banner .header.home-header {
 
     /* Significantly reduce logo size on mobile */
     .logo-image {
-        height: 40px !important;
+        height: 54px !important;
     }
 }
 
@@ -318,7 +319,7 @@ body.has-top-banner .header.home-header {
     }
 
     .logo-image {
-        height: 35px !important;
+        height: 46px !important;
     }
 
     .mobile-menu-toggle {
