@@ -1,8 +1,8 @@
 import { motion } from 'framer-motion';
 import mentorsHero from '../assets/mentors-hero.jpg';
 import munavathPortrait from '../assets/munavath-portrait.jpg';
-import pranayPortrait from '../assets/pranay-portrait-updated.jpg';
-import shivaPortrait from '../assets/shiva-portrait.jpg';
+import sajidaPortrait from '../assets/sajida-portrait.jpg';
+import archnaPortrait from '../assets/archna-portrait.jpg';
 
 const Mentors = () => {
     const mentors = [
@@ -18,8 +18,8 @@ const Mentors = () => {
             achievements: ['Microsoft & Databricks certified', 'Trained 500+ aspiring Data Engineers']
         },
         {
-            name: 'Pranay Kumar Sikilambatla',
-            image: pranayPortrait,
+            name: 'Sajida',
+            image: sajidaPortrait,
             role: 'Data Engineer / Ex. Microsoft',
             experience: '9+ years',
             companies: 'Microsoft, Fortune 500 Companies',
@@ -29,8 +29,8 @@ const Mentors = () => {
             achievements: ['Built systems handling TB-scale data', 'Expert in Hadoop, Kafka & Airflow']
         },
         {
-            name: 'Shiva',
-            image: shivaPortrait,
+            name: 'Archna',
+            image: archnaPortrait,
             role: 'Data Engineer & Web Developer',
             experience: '8+ years',
             companies: 'Leading Tech Firms',
