@@ -25,7 +25,7 @@ const Mentors = () => {
             companies: 'Microsoft, Fortune 500 Companies',
             specialization: 'Python, PySpark, AWS, Azure Cloud',
             certifications: ['Python & SQL Expert', 'PySpark & Databricks', 'AWS & Azure Cloud'],
-            description: "Pranay is an experienced Data Engineer with expertise in data pipelines, ETL workflows, and large-scale systems. He has delivered scalable data architectures across finance, healthcare, and analytics domains.",
+            description: "Sajida is an experienced Data Engineer with expertise in data pipelines, ETL workflows, and large-scale systems. She has delivered scalable data architectures across finance, healthcare, and analytics domains.",
             achievements: ['Built systems handling TB-scale data', 'Expert in Hadoop, Kafka & Airflow']
         },
         {
@@ -36,7 +36,7 @@ const Mentors = () => {
             companies: 'Leading Tech Firms',
             specialization: 'Full Stack Development, Azure Data Engineering',
             certifications: ['Full Stack Developer', 'Azure Data Engineer', 'React & Node.js'],
-            description: "Shiva is a versatile professional with expertise in both Data Engineering and Web Development. He specializes in building scalable data solutions and robust web applications, bridging the gap between data and application layers.",
+            description: "Archna is a versatile professional with expertise in both Data Engineering and Web Development. She specializes in building scalable data solutions and robust web applications, bridging the gap between data and application layers.",
             achievements: ['Delivered end-to-end web & data solutions', 'Expert in React, Node.js & Azure']
         },
     ];
