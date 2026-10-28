@@ -2,7 +2,7 @@ import { useState, useEffect } from 'react';
 import certBadges from '../assets/cert-badges.png';
 import aboutHero from '../assets/about-hero.jpg';
 import aboutPortrait from '../assets/about-portrait.jpg';
-import pranayPortrait from '../assets/pranay-portrait.jpg';
+
 import geethaPortrait from '../assets/geetha-portrait.png';
 import './About.css';
 
@@ -16,7 +16,7 @@ const About = () => {
     const mentors = [
         {
             name: 'Munavath',
-            image: aboutPortrait,
+            image: '/v_pic.png',
             role: 'Co-founder of weblearnai / Certified Professional Coach',
             description: "Hi, I'm Munavath, a Senior Data Engineer skilled in designing and building data pipelines, integrating complex data systems, and delivering real-world analytics solutions across multiple domains. I'm passionate about helping aspiring professionals kickstart their Data Engineering journey by turning complex topics simple and hands-on by practical approach.",
             expertise: "Microsoft and Databricks certified professional with credentials in:",
